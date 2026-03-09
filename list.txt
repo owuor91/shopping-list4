@@ -18,3 +18,7 @@ Jik
 Soap
 Air freshener
 Vim
+brush
+concealer
+foundation
+eyeliner
