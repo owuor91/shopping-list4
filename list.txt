@@ -22,3 +22,7 @@ Shorts
 Dress
 Tops
 Shoes
+brush
+concealer
+foundation
+eyeliner
